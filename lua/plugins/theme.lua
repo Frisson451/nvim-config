@@ -1,0 +1,1 @@
+/home/morris/.config/omarchy/current/theme/neovim.lua
